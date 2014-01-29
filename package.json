@@ -13,7 +13,8 @@
     "accordion"
   ],
   "devDependencies": {
-    "domify": "1.1.1"
+    "domify": "~1.1.1",
+    "zuul": "~1.5.2"
   },
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "license": "MIT"
