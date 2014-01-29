@@ -1,0 +1,20 @@
+{
+  "name": "expando",
+  "version": "0.0.0",
+  "description": "expand/collapse html elements",
+  "main": "./index.js",
+  "scripts": {
+    "test": "zuul -- test/index.js"
+  },
+  "keywords": [
+    "expand",
+    "collapse",
+    "slide",
+    "accordion"
+  ],
+  "devDependencies": {
+    "domify": "1.1.1"
+  },
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT"
+}
