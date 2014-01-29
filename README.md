@@ -1,4 +1,4 @@
-# expando
+# expando [![Build Status](https://travis-ci.org/defunctzombie/expando.png)](https://travis-ci.org/defunctzombie/expando)
 
 expand/collapse html elements with variable height
 
